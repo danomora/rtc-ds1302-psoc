@@ -7,7 +7,13 @@ System Interface :
 | -------- | ---- | --------------------- |
 | sclk | output | Syncronous software clock for data tranfer |
 | dat | bidir | Input/Output for data tranfer | 
-| ce | outup | Chip enable |
+| ce | output | Chip enable |
+
+sclk pin is a normal output pin without hardware connection.
+dat pin is a bidirectional pin with open low, high drives output mode and input buffer enabled.
+ce is an output pin.
+
+connection between ds1302 dat and psoc dat pin needs an 5k resistor connected to earth.
 
 
 Contains:
