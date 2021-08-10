@@ -1,0 +1,12 @@
+C:\Users\dan\Documents\PSoC Creator\Prueba\rtc.cydsn\rtc.cydsn\rtc.cyprj|3c9c7e55-f03f-4b66-aeef-a478fea7f1e4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|5bd5d2bf-a53e-450d-bf03-108980b0b8ef
+C:\Users\dan\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|11c8cb6f-f0d0-455f-ac13-a146a9ef76fb
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|29cd7ca8-7644-407c-83df-a22e0d214a5c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a623a634-99eb-4236-a326-dc265e9d457a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b4d440ab-3edc-47ab-a653-703e50eafa59
+C:\Users\dan\Documents\PSoC Creator\Prueba\thermistor.cydsn\spi.cydsn\spi.cyprj|ea527db2-d14f-4525-904a-4ddb769946e2
+C:\Users\dan\Documents\PSoC Creator\Prueba\thermistor.cydsn\rtc_lib.cylib\rtc_lib.cyprj|17294512-1ab4-43e0-a6a4-cf7de5dea921
+C:\Users\dan\Documents\PSoC Creator\Prueba\thermistor.cydsn\Digital_Pins01.cydsn\Digital_Pins01.cyprj|341642e0-8be0-43ff-87e1-d3eb33fe8e44
+C:\Users\dan\Documents\PSoC Creator\Prueba\thermistor.cydsn\thermistor.cyprj|1819616f-7ae6-40c4-a020-06b25a636f10
+C:\Users\dan\Documents\PSoC Creator\ds1302_lib\RTC_DS1302.cylib\RTC_DS1302.cyprj|df290818-d8bf-441c-aa7f-1f082541ddc0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|35dd0769-c4d9-4508-8a77-bd0007973c63
